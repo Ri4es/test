@@ -5,4 +5,3 @@ commit test
 321.
 Add line
 new branch line
-new line for GUI
